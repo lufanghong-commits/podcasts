@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>李承鹏</title>
+    <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
+    <description>李承鹏 的 YouTube 视频音频版，每日更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 29 Sep 2026 17:41:07 +0800</lastBuildDate>
+    <itunes:author>李承鹏</itunes:author>
+    <itunes:summary>李承鹏 的 YouTube 视频音频版，每日更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>李承鹏：全世界人民都知道这是一场不准说话的签售。</title>
+      <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：全世界人民都知道这是一场不准说话的签售。
+原视频：https://www.youtube.com/watch?v=JoNZxzR8eFQ</description>
+      <pubDate>Tue, 29 Sep 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/JoNZxzR8eFQ.mp3" length="4211094" type="audio/mpeg"/>
+      <guid isPermaLink="false">JoNZxzR8eFQ</guid>
+      <itunes:duration>0:05:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
