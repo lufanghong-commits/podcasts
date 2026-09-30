@@ -5,7 +5,7 @@
     <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
     <description>李承鹏 的 YouTube 视频音频版，每日更新。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Sep 2026 05:48:36 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:46:54 +0800</lastBuildDate>
     <itunes:author>李承鹏</itunes:author>
     <itunes:summary>李承鹏 的 YouTube 视频音频版，每日更新。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -46,6 +46,15 @@
       <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/NU4oPjGqTBQ.mp3" length="20562321" type="audio/mpeg"/>
       <guid isPermaLink="false">NU4oPjGqTBQ</guid>
       <itunes:duration>0:39:39</itunes:duration>
+    </item>
+    <item>
+      <title>李承鹏：我的世界杯普及帖，中国人为什么踢不好足球。</title>
+      <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：我的世界杯普及帖，中国人为什么踢不好足球。
+原视频：https://www.youtube.com/watch?v=22fpxBNENXE</description>
+      <pubDate>Wed, 30 Sep 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/22fpxBNENXE.mp3" length="19664774" type="audio/mpeg"/>
+      <guid isPermaLink="false">22fpxBNENXE</guid>
+      <itunes:duration>0:38:20</itunes:duration>
     </item>
     <item>
       <title>李承鹏：全世界人民都知道这是一场不准说话的签售。</title>
