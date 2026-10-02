@@ -5,12 +5,21 @@
     <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
     <description>李承鹏 的 YouTube 视频音频版，每日更新。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 01 Oct 2026 13:50:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:51:53 +0800</lastBuildDate>
     <itunes:author>李承鹏</itunes:author>
     <itunes:summary>李承鹏 的 YouTube 视频音频版，每日更新。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://lufanghong-commits.github.io/podcasts/licp.jpg"/>
+    <item>
+      <title>李承鹏：中美恩怨合订本（上集）</title>
+      <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：中美恩怨合订本（上集）
+原视频：https://www.youtube.com/watch?v=4vg_xrPIQRs</description>
+      <pubDate>Fri, 02 Oct 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/4vg_xrPIQRs.mp3" length="21437692" type="audio/mpeg"/>
+      <guid isPermaLink="false">4vg_xrPIQRs</guid>
+      <itunes:duration>0:39:49</itunes:duration>
+    </item>
     <item>
       <title>李承鹏：“在中国，千万别当好人”</title>
       <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：“在中国，千万别当好人”
