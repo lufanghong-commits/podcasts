@@ -5,12 +5,21 @@
     <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
     <description>李承鹏 的 YouTube 视频音频版，每日更新。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 04 Nov 2026 14:50:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:51:00 +0800</lastBuildDate>
     <itunes:author>李承鹏</itunes:author>
     <itunes:summary>李承鹏 的 YouTube 视频音频版，每日更新。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://lufanghong-commits.github.io/podcasts/licp.jpg"/>
+    <item>
+      <title>李承鹏：习近平能不能永久连任</title>
+      <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：习近平能不能永久连任
+原视频：https://www.youtube.com/watch?v=t8QMw5quq8k</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/t8QMw5quq8k.mp3" length="22090864" type="audio/mpeg"/>
+      <guid isPermaLink="false">t8QMw5quq8k</guid>
+      <itunes:duration>0:44:09</itunes:duration>
+    </item>
     <item>
       <title>李承鹏：宇宙的尽头是“辱华”</title>
       <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：宇宙的尽头是“辱华”
