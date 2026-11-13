@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>油管视频转播客</title>
+    <link>https://youtube.com/playlist?list=PL1B2Ql_olb1yr698ZIM8z6Oewp639b78L</link>
+    <description>油管视频转播客 的 YouTube 播放列表音频版，每周更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Nov 2026 11:51:39 +0800</lastBuildDate>
+    <itunes:author>油管视频转播客</itunes:author>
+    <itunes:summary>油管视频转播客 的 YouTube 播放列表音频版，每周更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lufanghong-commits.github.io/podcasts/playlist.jpg"/>
+    <item>
+      <title>E115 了解艾未未的采访后, 你对他的印象有多大的改变? | 回国 | 护照 | 大外宣 | 小粉红</title>
+      <description>来自 YouTube 播放列表「油管视频转播客」的音频版：E115 了解艾未未的采访后, 你对他的印象有多大的改变? | 回国 | 护照 | 大外宣 | 小粉红
+原视频：https://www.youtube.com/watch?v=VHNkaOaFKd4</description>
+      <pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/playlist/VHNkaOaFKd4.mp3" length="49535425" type="audio/mpeg"/>
+      <guid isPermaLink="false">VHNkaOaFKd4</guid>
+      <itunes:duration>1:27:29</itunes:duration>
+    </item>
+  </channel>
+</rss>

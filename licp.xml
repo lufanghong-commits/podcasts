@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>李承鹏</title>
+    <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
+    <description>李承鹏 的 YouTube 视频音频版，每日更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 13 Nov 2026 14:50:19 +0800</lastBuildDate>
+    <itunes:author>李承鹏</itunes:author>
+    <itunes:summary>李承鹏 的 YouTube 视频音频版，每日更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lufanghong-commits.github.io/podcasts/licp-cover.jpg"/>
+    <image>
+      <url>https://lufanghong-commits.github.io/podcasts/licp-cover.jpg</url>
+      <title>李承鹏</title>
+      <link>https://www.youtube.com/@%E6%9D%8E%E6%89%BF%E9%B9%8Fdyg</link>
+    </image>
+    <item>
+      <title>李承鹏：朱镕基的罪与罚</title>
+      <description>来自 YouTube 频道「李承鹏」的音频版：李承鹏：朱镕基的罪与罚
+原视频：https://www.youtube.com/watch?v=xgZ6F0hI4oU</description>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/licp/xgZ6F0hI4oU.mp3" length="27066476" type="audio/mpeg"/>
+      <guid isPermaLink="false">xgZ6F0hI4oU</guid>
+      <itunes:duration>0:52:04</itunes:duration>
+    </item>
+  </channel>
+</rss>
