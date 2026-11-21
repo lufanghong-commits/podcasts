@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>五岳散人 · 存根</title>
+    <link>https://www.youtube.com/@wuyuesanren</link>
+    <description>五岳散人 · 存根 的 YouTube 视频音频版，每日更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Nov 2026 11:52:24 +0800</lastBuildDate>
+    <itunes:author>五岳散人 · 存根</itunes:author>
+    <itunes:summary>五岳散人 · 存根 的 YouTube 视频音频版，每日更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lufanghong-commits.github.io/podcasts/wuyue-cungen-cover.jpg"/>
+    <image>
+      <url>https://lufanghong-commits.github.io/podcasts/wuyue-cungen-cover.jpg</url>
+      <title>五岳散人 · 存根</title>
+      <link>https://www.youtube.com/@wuyuesanren</link>
+    </image>
+
+  </channel>
+</rss>
