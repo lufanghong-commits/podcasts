@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>三個水槍手</title>
+    <link>https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B</link>
+    <description>三個水槍手 的 YouTube 视频音频版，每日更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 10 Nov 2026 09:26:03 +0800</lastBuildDate>
+    <itunes:author>三個水槍手</itunes:author>
+    <itunes:summary>三個水槍手 的 YouTube 视频音频版，每日更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lufanghong-commits.github.io/podcasts/sange-shuiqiangshou-cover.jpg"/>
+    <image>
+      <url>https://lufanghong-commits.github.io/podcasts/sange-shuiqiangshou-cover.jpg</url>
+      <title>三個水槍手</title>
+      <link>https://www.youtube.com/@%E4%B8%89%E5%80%8B%E6%B0%B4%E6%A7%8D%E6%89%8B</link>
+    </image>
+    <item>
+      <title>E228 中国怎样走向民主？七步民主 vs 二次改开正面交锋 | 方脸 | 民主转型 | 中共</title>
+      <description>来自 YouTube 频道「三個水槍手」的音频版：E228 中国怎样走向民主？七步民主 vs 二次改开正面交锋 | 方脸 | 民主转型 | 中共
+原视频：https://www.youtube.com/watch?v=a-jnTdSkWbo</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/sange-shuiqiangshou/a-jnTdSkWbo.mp3" length="60629026" type="audio/mpeg"/>
+      <guid isPermaLink="false">a-jnTdSkWbo</guid>
+      <itunes:duration>1:51:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>油管视频转播客</title>
+    <link>https://youtube.com/playlist?list=PL1B2Ql_olb1yr698ZIM8z6Oewp639b78L</link>
+    <description>油管视频转播客 的 YouTube 播放列表音频版，每周更新。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 23 Nov 2026 16:50:10 +0800</lastBuildDate>
+    <itunes:author>油管视频转播客</itunes:author>
+    <itunes:summary>油管视频转播客 的 YouTube 播放列表音频版，每周更新。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://lufanghong-commits.github.io/podcasts/playlist.jpg"/>
+    <item>
+      <title>黄仁勋必将王者归来，NVIDIA 英伟达仍旧需要一个有远见的领导者</title>
+      <description>来自 YouTube 播放列表「油管视频转播客」的音频版：黄仁勋必将王者归来，NVIDIA 英伟达仍旧需要一个有远见的领导者
+原视频：https://www.youtube.com/watch?v=-3LcZh6srIA</description>
+      <pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate>
+      <enclosure url="https://lufanghong-commits.github.io/podcasts/playlist/-3LcZh6srIA.mp3" length="25072549" type="audio/mpeg"/>
+      <guid isPermaLink="false">-3LcZh6srIA</guid>
+      <itunes:duration>0:54:38</itunes:duration>
+    </item>
+  </channel>
+</rss>
